@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: url(agera.jpg) no-repeat;
+	background-size: cover;
+}
+.login-box{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: red;
+}
+.login-box h1{
+	float: left;
+	font-size: 40px;
+	border-bottom: 36px;
+}
